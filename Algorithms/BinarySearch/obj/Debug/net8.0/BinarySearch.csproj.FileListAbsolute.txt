@@ -1,0 +1,15 @@
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\bin\Debug\net8.0\BinarySearch.exe
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\bin\Debug\net8.0\BinarySearch.deps.json
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\bin\Debug\net8.0\BinarySearch.runtimeconfig.json
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\bin\Debug\net8.0\BinarySearch.dll
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\bin\Debug\net8.0\BinarySearch.pdb
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\obj\Debug\net8.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfoInputs.cache
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfo.cs
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\obj\Debug\net8.0\BinarySearch.csproj.CoreCompileInputs.cache
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\obj\Debug\net8.0\BinarySearch.sourcelink.json
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\obj\Debug\net8.0\BinarySearch.dll
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\obj\Debug\net8.0\refint\BinarySearch.dll
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\obj\Debug\net8.0\BinarySearch.pdb
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\obj\Debug\net8.0\BinarySearch.genruntimeconfig.cache
+E:\Projects\Algorithms\Algorithms-and-Big-O-notation-C-\Algorithms\BinarySearch\obj\Debug\net8.0\ref\BinarySearch.dll
