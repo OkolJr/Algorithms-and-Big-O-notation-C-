@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "D:\\Bib\\Bibik\\Algos\\Algorithms-and-Big-O-notation-C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Bib\\Bibik\\Algos\\Algorithms-and-Big-O-notation-C-\\Array Algorithms\\Find the Missing Number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Array Algorithms\\Find the Missing Number.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Bib\\Bibik\\Algos\\Algorithms-and-Big-O-notation-C-\\Array Algorithms\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Array Algorithms\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
@@ -23,19 +19,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Find the Missing Number.cs",
-              "DocumentMoniker": "D:\\Bib\\Bibik\\Algos\\Algorithms-and-Big-O-notation-C-\\Array Algorithms\\Find the Missing Number.cs",
-              "RelativeDocumentMoniker": "Array Algorithms\\Find the Missing Number.cs",
-              "ToolTip": "D:\\Bib\\Bibik\\Algos\\Algorithms-and-Big-O-notation-C-\\Array Algorithms\\Find the Missing Number.cs",
-              "RelativeToolTip": "Array Algorithms\\Find the Missing Number.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-17T13:29:23.183Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "README.md",
               "DocumentMoniker": "D:\\Bib\\Bibik\\Algos\\Algorithms-and-Big-O-notation-C-\\Array Algorithms\\README.md",
               "RelativeDocumentMoniker": "Array Algorithms\\README.md",
