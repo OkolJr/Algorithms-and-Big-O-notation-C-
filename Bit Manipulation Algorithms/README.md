@@ -18,12 +18,12 @@ Here are some common bitwise algorithms and operations:<ul>
 <li>Error Detection and Correction: Bitwise algorithms are employed in error detection and correction techniques, such as CRC (Cyclic Redundancy Check) and Hamming codes. These algorithms use bitwise XOR and other operations to detect and correct errors in transmitted data.</li></ul>
 <h2>Different types of bitwise algorithms:</h2>
 <h3>Find first non-repeating element in a given Array of integers</h3><p>Given an array of integers of size N, the task is to find the first non-repeating element in this array.</p>
-<h3></h3><p></p>
-<h3></h3><p></p>
-<h3></h3><p></p>
-<h3></h3><p></p>
-<h3></h3><p></p>
-<h3></h3><p></p>
-<h3></h3><p></p>
-<h3></h3><p></p>
-<h3></h3><p></p>
+<h3>Count total set bits in first N Natural Numbers</h3><p>Given a positive integer N, the task is to count the total number of set bits in binary representation of all natural numbers from 1 to N. </p>
+<h3>Maximum XOR of Two Numbers in an Array</h3><p>Given an array Arr of non-negative integers of size N. The task is to find the maximum possible xor between two numbers present in the array.</p>
+<h3>Find the two non-repeating elements in an array of repeating elements</h3><p>Given an array arr[] containing 2*N+2 positive numbers, out of which 2*N numbers exist in pairs whereas the other two number occur exactly once and are distinct. Find the other two numbers. Return in increasing order.</p>
+<h3>Check if a given number is sparse or not</h3><p>Write a function to check if a given number is Sparse or not.</p>
+<h3>Count total set bits in first N Natural Numbers (all numbers from 1 to N)</h3><p>Given a positive integer N, the task is to count the total number of set bits in binary representation of all natural numbers from 1 to N.</p>
+<h3>Find the maximum subarray XOR in a given array</h3><p>Given an array of integers. The task is to find the maximum subarray XOR value in the given array.</p>
+<h3>Sum of XOR of all subarrays</h3><p>Given an array containing N positive integers, the task is to find the sum of XOR of all sub-arrays of the array.</p>
+<h3>Single Element Among Doubles</h3><p>Given an array of integers. All numbers occur twice except one number which occurs once. Find the number in O(n) time & constant extra space.</p>
+<h3>Program to find whether a given number is power of 2</h3><p>Given a positive integer n, write a function to find if it is a power of 2 or not.</p>
